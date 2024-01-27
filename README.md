@@ -246,7 +246,7 @@ Para ejecutar este flow, es necesario lo siguiente
    - 3 chart
    - mysql
 
- ![](https://github.com/YasminZagal/PRACTICA-N-9-NodeRed-DHT22-CON-ULTRASONICO/blob/main/nodos.png)
+ ![](https://github.com/YasminZagal/PRACTICA-11-BASE-DE-DATOS/blob/main/1nodos.jpeg)
   
 4. Para la configuracion del mqtt in necesitaremos saber nuestra ip, que se saca de la siguiente manera:
    cmd --> nslookup broker.hivemq.com --> copiamos los numeros de la parte que dice addresses --> nos dirigimos a nodered --> seleccionamos mqtt in --> damos click en el icono del lapiz --> en la parte de server se pegara la direccion ip que copiamos --> update --> done
